@@ -18,7 +18,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@coral-xyz/anchor": "^0.31.1",
+    "@coral-xyz/anchor": "^0.32.1",
     "@ethersproject/keccak256": "^5.8.0",
     "@ethersproject/sha2": "^5.8.0",
     "@lightprotocol/hasher.rs": "^0.2.1",
